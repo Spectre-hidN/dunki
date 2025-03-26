@@ -10,14 +10,12 @@
 <br>
 <p float="left">
 <h3>Screenshots</h3>
-<img src="images/login_register.gif" width=300 alt="Login page">
-‎ ‎ 
+<img src="images/login_register.gif" width=300 alt="Login page"> 
 <img src="images/main_page.gif" width=300 alt="Main page">
 <img src="images/add_screen.png", width=300 alt="Add Screen">
 </p>
 <h3>Dark Mode Support</h3>
 <img src="images/dark_mode.gif" width=300 alt="Dark Mode">
-‎ ‎ 
 <img src="images/dark_mode2.png" width=300 alt="Dark Graph">
 </p>
 
